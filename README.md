@@ -1,2 +1,2 @@
 # RF_heart_disease
-Random Forest Analasis
+Random Forest Analysis
